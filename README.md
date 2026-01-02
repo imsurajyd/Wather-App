@@ -69,27 +69,27 @@ npm run dev
 
 ---
 
-🔑 API Used
+## 🔑 API Used
 WeatherAPI
 https://www.weatherapi.com/
 Make sure you use your own API key.
 
 ---
 
-📸 Preview
+## 📸 Preview
 Dynamic UI changes based on:
 Day / Night
 Clear / Cloudy weather
 ![Day](./src/assect/image.png)
 ---
 
-🙌 Author
+## 🙌 Author
 Suraj Kumar
 💻 Frontend Developer | React Learner
 🔗 GitHub: https://github.com/imsurajyd
 
 ---
 
-⭐ Support
+## ⭐ Support
 If you like this project, please ⭐ star the repository
 and feel free to contribute or suggest improvements!
