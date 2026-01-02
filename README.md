@@ -49,6 +49,13 @@ src/
 ├── App.jsx
 └── main.jsx
 
+---
+
+## 📸 Preview
+Dynamic UI changes based on:
+Day / Night
+Clear / Cloudy weather
+![Day](./src/assect/image.png)
 
 ---
 
@@ -74,13 +81,6 @@ WeatherAPI
 https://www.weatherapi.com/
 Make sure you use your own API key.
 
----
-
-## 📸 Preview
-Dynamic UI changes based on:
-Day / Night
-Clear / Cloudy weather
-![Day](./src/assect/image.png)
 ---
 
 ## 🙌 Author
