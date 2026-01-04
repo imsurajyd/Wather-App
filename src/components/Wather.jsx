@@ -6,7 +6,8 @@ import Coldtemp from "../assect/Coldtemp.png";
 import Hottemp from "../assect/hottemp.png";
 import WeatherSkeleton from "./WeatherSkeleton";
 
-import DayClear from "../assect/Cleansky.avif"; 
+import DayClear from "../assect/Cleansky.avif";
+import DayCloud from "../assect/Cloudsky.avif"
 import NightClear from "../assect/Nightsky.avif"; 
 import NightCloud from "../assect/Nightcloud.avif";
 
